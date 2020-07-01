@@ -1,0 +1,2 @@
+Hello there friend!!! This is a file that is to be encrypted in CBC mode.
+First encrypt this file to generate the encrypted message and then decrypt it to obtain the result.
